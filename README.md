@@ -15,4 +15,5 @@ Total params: 35
 Trainable params: 35  
 Non-trainable params: 0  
 _________________________________________________________________  
-  
+### Loss Graph :
+![loss_graph](img/loss_graph.png)
